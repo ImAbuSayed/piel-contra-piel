@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel contra piel
+
+This log tracks the cryptographic history and versioning for the song **Piel contra piel** (piel-contra-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:30:02.525287 | `v1` | `7a79b33b2aac988c87d92c11e2832a819d760e95dc72f080abaaf82217959a80` | `06263747905ec34fd7db484492c6ef84e09ccf20e7ec15435da0b2d3477769ce` | `2026-06-15_piel-contra-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
