@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-contra-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Piel contra piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-contra-piel/) |
+| **Get License** | [Music Rights & Licensing for Piel contra piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-contra-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel contra piel, mami, tú y yo en la noche
+> Rompiendo las reglas sin hacer un reproche
+> Sabes lo que quiero, no me dejes esperando
+> Que este fuego en mi alma ya te está quemando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
